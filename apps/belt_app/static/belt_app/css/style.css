@@ -1,0 +1,35 @@
+#container {
+	width: 970px;
+}
+
+#register {
+	width: 450px;
+	height: 450px;
+	display: inline-block;
+}
+
+#login {
+	width: 450px;
+	height: 450px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+}
+
+h1 {
+	margin-left: 20px;
+}
+
+form {
+	margin-left: 20px;
+	text-align: left;
+}
+
+input {
+	display: block;
+	text-align: left;
+}
+
+p {
+	text-align: left;
+}
